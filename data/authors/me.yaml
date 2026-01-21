@@ -14,10 +14,12 @@ status:
   icon: "☕️"
 role: AI Researcher
 bio: |
-  Alex Johnson is a Senior AI Research Scientist at Meta AI. His research
-  has been published in top conferences like NeurIPS and ICML, with over
-  10,000 citations. Alex is passionate about pushing the boundaries of AI
-  while ensuring ethical development.
+  Falco Lentzsch is a AI Researcher at the German Research Center for Artificial Intelligence (DFKI), 
+  where he specializes in multimodal AI systems and large language models. His research spans LLM-based pipelines 
+  for RAG and data annotation, sensor data analysis, and audio-video processing. 
+  Falco holds a Master's degree in Medical Computer Science from the University of Lübeck, 
+  where his thesis focused on leveraging deep learning for robust movement detection using RGB-D and IMU data. 
+  His work bridges healthcare and artificial intelligence, combining technical expertise in machine learning with domain knowledge from clinical applications.
 
 affiliations:
   - name: German Research Center for Artificial Intelligence (DFKI)
