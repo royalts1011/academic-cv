@@ -34,7 +34,7 @@ links:
   - icon: brands/github
     url: https://github.com/royalts1011
   - icon: brands/linkedin
-    url: www.linkedin.com/in/falcolentzsch
+    url: https://linkedin.com/in/falcolentzsch
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?hl=de&user=AlP-H2UAAAAJ
   # - icon: academicons/orcid
@@ -46,6 +46,15 @@ interests:
   - Human Activity Recognition
   - RAG Systems
   - Generative AI
+  - Data Analysis
+  - Multimodal AI
+  - Healthcare AI / Medical Informatics
+  - Deep Learning
+  - Natural Language Processing
+  - Computer Vision
+  - Sensor Fusion
+  - MLOps
+  - Audio/Speech Processing
 
 education:
   # - degree: PhD Computer Science
@@ -97,7 +106,20 @@ skills:
         level: 5
       - label: Machine Learning
         level: 5
-      - label: Cloud Computing
+      - label: PyTorch/TensorFlow
+        level: 4
+      - label: LangChain/LlamaIndex
+        level: 3
+      - label: Docker/Kubernetes
+        level: 3
+      - label: SQL/Databases
+        level: 3
+      - label: Data Analysis
+      - label: Git/GitHub
+        level: 4
+      - label: Linux
+        level: 4
+      - label: LaTeX
         level: 4
   - name: Research & Communication
     items:
