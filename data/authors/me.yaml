@@ -83,9 +83,16 @@ experience:
     summary: |
       - Project acquisition and proposal writing for research funding and industry partnerships
       - Sensor data preprocessing and ML pipeline development for classification and regression tasks
-      - Training and fine-tuning multimodal LLMs and text-based language models
-      - Developing LLM-based pipelines for RAG, data annotation, and automated workflows
-      - Audio and video data analysis using large language models
+      - Training and fine-tuning multimodal LLMs for medical video understanding and temporal grounding, 
+        enabling automatic detection of clinically relevant continuous timestamps and generation of contextual captions 
+        using combined audio-visual analysis.
+      - Designing and developing LLM-based pipelines for Retrieval-Augmented Generation (RAG) in the legal domain,
+        making contracts accessible for LLM analysis via RAG and Model Context Protocol (MCP). Implementing privacy-preserving architectures 
+        using Langdock and locally hosted language models to ensure high security standards for sensitive legal documents, 
+        alongside automated data annotation and AI-driven research workflows.
+      - Developing multimodal analysis pipelines that process combined audio and video streams to generate timestamped captions using large language models. 
+        Integrating LLM-generated annotations with human expert annotations to create high-quality benchmark datasets 
+        for medical video understanding and temporal event detection.
     button:
       text: View portfolio
       url: /
@@ -97,7 +104,16 @@ experience:
     summary: |
       Internship followed by employment on the ScreenFM research project, funded by the German Federal Ministry of Education and Research (BMBF).
       - Developed an automated screening system for detecting Fidgety Movements as part of the General Movement Assessment procedure.
-      - Analyzed RGB-D and Inertial Measurement Unit (IMU) data to develop classifiers for Fidgety Movement detection.
+      - Analyzed RGB-D camera and Inertial Measurement Unit (IMU) sensor data to develop machine learning classifiers for Fidgety Movement detection. 
+        Conducted statistical testing to compare model architectures and evaluate performance differences across RGB-D and IMU data modalities for infant neurological screening.
+  - role: Intensive Care Nurse
+    org: Various Hospitals, Schleswig-Holstein
+    start: 2016-06-01
+    end: 2024-04-30
+    summary: |
+      - Patient care on medical and surgical intensive care units at UKSH Campus Lübeck
+      - Operated and monitored critical care medical devices including ventilators, infusion pumps, hemodynamic monitoring systems, and dialysis equipment
+      - Managed electronic health records and clinical documentation systems for ICU patient data
 
 skills:
   - name: Technical Skills
@@ -115,20 +131,25 @@ skills:
       - label: SQL/Databases
         level: 3
       - label: Data Analysis
+        level: 4
       - label: Git/GitHub
         level: 4
       - label: Linux
-        level: 4
+        level: 3
       - label: LaTeX
+        level: 4
+      - label: Microsoft Office
         level: 4
   - name: Research & Communication
     items:
       - label: Academic Writing
-        level: 5
+        level: 4
       - label: Conference Presentations
         level: 4
-      - label: Grant Proposals
-        level: 4
+      - label: Grant Proposals Writing
+        level: 3
+      - label: Project Acquisition
+        level: 3
 
 languages:
   - name: German
